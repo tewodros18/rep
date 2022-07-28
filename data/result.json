@@ -1,7 +1,7 @@
 {
 	"test_knn_benchmark": {
-		"Heat Version":1.0,
-		"result": "8.9333333373069763",
+		"Heat_Version":1.0,
+		"result": "0.9333333373069763",
 		"execution_time": "0.004596616607159376"
 	}
 }
