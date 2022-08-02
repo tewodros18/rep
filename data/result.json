@@ -1,12 +1,22 @@
-{
-	"test_knn_benchmark": {
-		"version": "2",
-		"result": "4.93337",
-		"execution_time": "0.004596616607159376"
-	},
-	"test_knn_benchmark": {
-		"version": "3",
-		"result": "2.93337",
-		"execution_time": "0.004596616607159376"
-	}
-}
+[
+  {
+    "Step number": 1,
+    "Description": "Read some data to get started.",
+    "Involvement": 2
+  },
+  {
+    "Step number": 2.1,
+    "Description": "Load an example transformation script.",
+    "Involvement": 1
+  },
+  {
+    "Step number": 2.2,
+    "Description": "Modify the script to extract the data you want.",
+    "Involvement": 5
+  },
+  {
+    "Step number": 3,
+    "Description": "View you processed JSON or a Chart.js plot.",
+    "Involvement": 2
+  }
+]
