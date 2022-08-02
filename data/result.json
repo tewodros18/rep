@@ -1,22 +1,22 @@
 [
   {
-    "Step number": 1,
+    "Step number": 1.10,
     "Description": "Read some data to get started.",
-    "Involvement": 2
+    "Involvement": 3.1
+  },
+  {
+    "Step number": 1.11,
+    "Description": "Load an example transformation script.",
+    "Involvement": 3.48
+  },
+  {
+    "Step number": 1.81,
+    "Description": "Modify the script to extract the data you want.",
+    "Involvement": 4.2
   },
   {
     "Step number": 2.1,
-    "Description": "Load an example transformation script.",
-    "Involvement": 1
-  },
-  {
-    "Step number": 2.2,
-    "Description": "Modify the script to extract the data you want.",
-    "Involvement": 5
-  },
-  {
-    "Step number": 3,
     "Description": "View you processed JSON or a Chart.js plot.",
-    "Involvement": 2
+    "Involvement": 1.2
   }
 ]
