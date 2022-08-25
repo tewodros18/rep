@@ -1,4 +1,5 @@
-{
+[
+    {
     "machine_info": {
         "node": "hdfmll01.hdfml",
         "processor": "x86_64",
@@ -230,3 +231,4 @@
     "datetime": "2022-08-25T09:35:25.744477",
     "version": "3.4.1"
 }
+    ]
